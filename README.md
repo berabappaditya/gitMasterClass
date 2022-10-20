@@ -20,4 +20,4 @@ git master class
 
 ## git command to commit to specific branch
 
-> git commit -b <branch_name>
+>
