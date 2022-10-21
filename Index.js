@@ -1,1 +1,1 @@
-console.log("Starting app.js");
+console.log("Starting MASTER");
