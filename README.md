@@ -88,3 +88,7 @@ git master class
 ### git command to see the changes in the file
 
 > git diff
+
+## git command to upstream from parent repo
+
+##### [REFERENCE](https://devopscube.com/set-git-upstream-respository-branch/)
