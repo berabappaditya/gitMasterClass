@@ -92,3 +92,5 @@ git master class
 ## git command to upstream from parent repo
 
 ##### [REFERENCE](https://devopscube.com/set-git-upstream-respository-branch/)
+### command to setUp a upstream
+> git remote add upstream https://github.com/berabappaditya/gitMasterClass.git
