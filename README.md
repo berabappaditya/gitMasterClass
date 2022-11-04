@@ -85,8 +85,7 @@ git master class
 
 > git checkout -b <branch-name>
 
-### git command to see the changes in the file
-
+### git command to see the changes in the file!
 > git diff
 
 ## git command to upstream from parent repo
@@ -94,3 +93,5 @@ git master class
 ##### [REFERENCE](https://devopscube.com/set-git-upstream-respository-branch/)
 ### command to setUp a upstream
 > git remote add upstream https://github.com/berabappaditya/gitMasterClass.git
+  
+  [git upstream](https://user-images.githubusercontent.com/39941574/199924669-97d16739-1398-48ea-8dfb-b64edc0da2de.png)
